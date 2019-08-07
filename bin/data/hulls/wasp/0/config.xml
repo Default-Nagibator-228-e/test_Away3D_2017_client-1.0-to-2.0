@@ -1,0 +1,26 @@
+<profile>
+	<mass>1000</mass>
+	<springDamping>1000</springDamping>
+	<power>200000</power>
+	<maxForwardSpeed>400</maxForwardSpeed>
+	<maxBackwardSpeed>400</maxBackwardSpeed>
+	<maxTurnSpeed>1.27</maxTurnSpeed>
+	<drivingForceOffsetZ>0</drivingForceOffsetZ>
+	<smallVelocity>50</smallVelocity>
+	<rayRestLengthCoeff>1.5</rayRestLengthCoeff>
+	<dynamicFriction>0.05</dynamicFriction>
+	<brakeFriction>2</brakeFriction>
+	<sideFriction>2</sideFriction>
+	<spotTurnPowerCoeff>1.9</spotTurnPowerCoeff>
+	<spotTurnDynamicFriction>0.05</spotTurnDynamicFriction>
+	<spotTurnSideFriction>1</spotTurnSideFriction>
+	<moveTurnPowerCoeffInner>0.39</moveTurnPowerCoeffInner>
+	<moveTurnPowerCoeffOuter>1.17</moveTurnPowerCoeffOuter>
+	<moveTurnDynamicFrictionInner>0.5</moveTurnDynamicFrictionInner>
+	<moveTurnDynamicFrictionOuter>0.05</moveTurnDynamicFrictionOuter>
+	<moveTurnSideFriction>1</moveTurnSideFriction>
+	<moveTurnSpeedCoeffInner>0.39</moveTurnSpeedCoeffInner>
+	<moveTurnSpeedCoeffOuter>1.17</moveTurnSpeedCoeffOuter>
+	<tankOffsetZ>-35</tankOffsetZ>
+	<health>30</health>
+</profile>
